@@ -10,7 +10,7 @@ I'm currently pursuing my B.Tech degree in Computer Science and Engineering at S
 ## 🛠 Skills & Tech Stack
 
 - 🌐 **Frontend:** Js, Tailwind CSS, Bootstrap, CSS
-- ⚙️ **Backend:**  Python
+- ⚙️ **Backend:**  Python, C
 - 🛢 **Database:**  MySQL
 - 🎮 **Other:**  Git
 
