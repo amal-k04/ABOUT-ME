@@ -5,7 +5,7 @@ I'm currently pursuing my B.Tech degree in Computer Science and Engineering at S
 * 📚 Lifelong Learner: If there's a way to learn something and time to do it, count me in!..
 * ⚽ football Player
 
-- 📫 Reach me at:[Gmail](amal17philip@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amal-k-philip-485863343/) 
+- 📫 Reach me at: [Gmail](amal17philip@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amal-k-philip-485863343/) 
 
 ## 🛠 Skills & Tech Stack
 
